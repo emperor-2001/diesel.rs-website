@@ -9,4 +9,4 @@ bundle exec middleman
 ```
 
 Master branch is automatically deployed to Github Pages.
-Thank you for visiting
+Thank you for visiting it.
